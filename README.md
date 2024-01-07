@@ -4,4 +4,4 @@ Project developed in the HTML E CSS PARA INICIANTES course - [Origamid](https://
 
 [Project webpage](https://kelwynoliveira.github.io/LoboPortfolio/)
 
-[![](./thumb.PNG)](https://kelwynoliveira.github.io/LoboPortfolio/)
+[![](./thumb.jpg)](https://kelwynoliveira.github.io/LoboPortfolio/)
